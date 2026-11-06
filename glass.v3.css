@@ -210,3 +210,7 @@ body.dark-mode .auth-tabs{background:rgba(255,255,255,.08)}body.dark-mode .auth-
 body.dark-mode .toggle-switch{background:rgba(255,255,255,.18)}
 body.dark-mode .summary-row{color:var(--text-secondary)}body.dark-mode .summary-row.total{color:#c3adff}
 body.dark-mode .stars i.empty{color:#4a4170}
+
+/* hero banner: your 3 transparent product images, shown whole */
+.promo-image{width:176px;height:117px}
+.promo-img{object-fit:contain!important;object-position:center;image-rendering:auto}
